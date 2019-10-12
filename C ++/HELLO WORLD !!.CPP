@@ -9,7 +9,7 @@
 void main()
 {
  clrscr();
- int i,j,a[10][10],r,c;
+ int i,j,a[10][10],r,c;//variables declared.
  cout<<"                       ### Showing Hello World !!!  ###\n";
  cout<<"                  ---XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---";
  cout<<"\n Enter Rows: ";
